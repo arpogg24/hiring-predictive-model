@@ -1,1 +1,1 @@
-# Unsupervised Learning to Predict Hiring Outcomes
+# Supervised Learning to Predict Hiring Outcomes
